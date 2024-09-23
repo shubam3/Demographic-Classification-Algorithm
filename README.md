@@ -1,4 +1,4 @@
-# Age-and-Gender-Prediction
+# Demographic Classification Algorithm
 Using CNN algorithm and basic python language
 We have trained data models to predict the gender and age of a person.
 This is the Age and Gender prediction model built using Convolutional Neural Networks in Python. The model is built on the basis of Research Paper by Gil Levi and Tal Hassner. The neural architecture is built as written in the paper with slight modifications according to the dataset for better perfomance.
